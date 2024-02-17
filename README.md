@@ -4,7 +4,7 @@
 Run the following command to clone the repository.
  
  ``` bash
- https://github.com/Daksh-pal/Zedblock-todo.git
+ git clone https://github.com/Daksh-pal/Zedblock-todo.git
  ```
 
  Go to frontend
