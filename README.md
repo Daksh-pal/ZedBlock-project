@@ -17,6 +17,13 @@ Go to backend
 cd backend
 npm install
 ```
+Create a ".env" file and define the following keys
+```bash
+MONGO_URI = your MongoDB database URL
+PORT =your port number
+JWT_SECRET =your JSON web token secret key
+```
+
 
 Go to backend and frontend directory and start the server
 ```bash
